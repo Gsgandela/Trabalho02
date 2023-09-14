@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 
-public class CalculadoraApp {
+public class Conta {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         Calculadora calculadora = new Calculadora();
